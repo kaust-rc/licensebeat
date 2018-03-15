@@ -1,0 +1,9 @@
+- key: licensebeat
+  title: licensebeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION

@@ -1,0 +1,5 @@
+= Licensebeat Docs
+
+Welcome to the Licensebeat documentation.
+
+

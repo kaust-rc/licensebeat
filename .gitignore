@@ -1,0 +1,7 @@
+/.idea
+/build
+
+.DS_Store
+/licensebeat
+/licensebeat.test
+*.pyc
