@@ -1,3 +1,13 @@
+[![Build Status](https://travis-ci.org/kaust-rc/licensebeat.svg?branch=master)](https://travis-ci.org/kaust-rclicensebeat)
+[![codecov.io](http://codecov.io/github/kaust-rc/licensebeat/coverage.svg?branch=master)](http://codecov.io/github/kaut-rc/licensebeat?branch=master)
+[![Go Report Card](https://goreportcard.com/badge/github.com/kaust-rc/licensebeat)](https://goreportcard.com/report/github.com/kaust-rc/licensebeat)
+[![license](https://img.shields.io/github/license/kaust-rc/licensebeat.svg)](https://github.com/kaust-rc/licensebeat)
+[![Github All Releases](https://img.shields.io/github/downloads/kaust-rc/licensebeat/total.svg)](https://github.com/kaust-rc/licensebeat)
+
+![Elastic Beats 6.2](https://img.shields.io/badge/Elastic%20Beats-v6.2-blue.svg)
+![Golang 1.9](https://img.shields.io/badge/Golang-v1.9-blue.svg)
+
+
 # Licensebeat
 
 Welcome to Licensebeat.
@@ -9,7 +19,7 @@ Ensure that this folder is at the following location:
 
 ### Requirements
 
-* [Golang](https://golang.org/dl/) 1.7
+* [Golang](https://golang.org/dl/) 1.9
 
 ### Init Project
 To get running with Licensebeat and also install the
